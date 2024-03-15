@@ -20,8 +20,8 @@ I explored the 9 different tables with Excel and from this process, I discovered
 * Unwanted special characters
 * Irrelevant columns
 * Errors in spelling
-### DATA CLEANING
-In cleaning the Data, I used MySQL 
+### DATA CLEANING 
+In cleaning the Data, I used MySQL [link](https://github.com/Omkarnk816/Olist_store_Analytics/blob/main/Olist_CLEAN_KPIS.sql)
 
 * Converting/Updating our category column to the English translation from the translation table.There are records in the category column that require us to replace with English-translated versions of the Portuguese strings     from the category_name_translatn table, but after confirming the distinct records from the translation table.
    <p align="center">
@@ -101,7 +101,7 @@ This KPI analyzes the relationship between shipping days and review scores. It h
 
 ## Conclusion
 
-The Olist Store Analysis project provides valuable insights into customer behavior and payment statistics. The analysis of these KPIs helps Olist in identifying areas of improvement and creating targeted marketing campaigns. As a data analyst, I have used Excel,MySQL and Tableau to clean and manipulate the dataset and create meaningful visualizations. This project serves as a great example of how data analysis can help businesses make informed decisions.Dashboard[link]
+The Olist Store Analysis project provides valuable insights into customer behavior and payment statistics. The analysis of these KPIs helps Olist in identifying areas of improvement and creating targeted marketing campaigns. As a data analyst, I have used Excel,MySQL and Tableau to clean and manipulate the dataset and create meaningful visualizations. This project serves as a great example of how data analysis can help businesses make informed decisions.Dashboard[link](https://github.com/Omkarnk816/Olist_store_Analytics/blob/main/Olist%20E-Commerce.twbx)
 
 ![Olist_Dashboard](https://github.com/Omkarnk816/Olist_store_Analytics/assets/162085882/37fd2d51-e74f-46a9-9dd9-8a7be0913eed)
 
