@@ -99,9 +99,12 @@ The analysis of average price and payment values from customers of Sao Paulo cit
 KPI 5: Relationship between shipping days (order_delivered_customer_date — order_purchase_timestamp) Vs review scores
 This KPI analyzes the relationship between shipping days and review scores. It helps in understanding the impact of delivery time on customer satisfaction levels. Olist can use this information to optimize their logistics and improve their delivery time.
 
-Conclusion:
+## Conclusion
 
-The Olist Store Analysis project provides valuable insights into customer behavior and payment statistics. The analysis of these KPIs helps Olist in identifying areas of improvement and creating targeted marketing campaigns. As a data analyst, I have used Excel,MySQL and Tableau to clean and manipulate the dataset and create meaningful visualizations. This project serves as a great example of how data analysis can help businesses make informed decisions.
+The Olist Store Analysis project provides valuable insights into customer behavior and payment statistics. The analysis of these KPIs helps Olist in identifying areas of improvement and creating targeted marketing campaigns. As a data analyst, I have used Excel,MySQL and Tableau to clean and manipulate the dataset and create meaningful visualizations. This project serves as a great example of how data analysis can help businesses make informed decisions.Dashboard[link]
+
+![Olist_Dashboard](https://github.com/Omkarnk816/Olist_store_Analytics/assets/162085882/37fd2d51-e74f-46a9-9dd9-8a7be0913eed)
+
 
 
 
